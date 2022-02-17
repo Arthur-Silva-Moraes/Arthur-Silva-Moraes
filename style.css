@@ -1,0 +1,28 @@
+main
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+img
+{
+  width: 70vw;
+  border: solid;
+  
+}
+div
+{
+  display: flex;
+  flex-direction: column;
+}
+p
+{
+  text-align: center;
+  font-size: 2.5rem;
+  background-color: #111;
+  color: #fff;
+
+  padding: 20px;
+  border-radius: 5px;
+}
